@@ -1,0 +1,74 @@
+
+[
+    {
+      "fileName": "Auth.tsx",
+      "edits": 28,
+      "bugs": 4,
+      "todos": 3,
+      "lintErrors": 5
+    },
+    {
+      "fileName": "HomePage.jsx",
+      "edits": 5,
+      "bugs": 0,
+      "todos": 1,
+      "lintErrors": 0
+    },
+    {
+      "fileName": "Dashboard.tsx",
+      "edits": 17,
+      "bugs": 2,
+      "todos": 0,
+      "lintErrors": 1
+    },
+    {
+      "fileName": "api/userRoutes.js",
+      "edits": 42,
+      "bugs": 6,
+      "todos": 4,
+      "lintErrors": 8
+    },
+    {
+      "fileName": "utils/helpers.ts",
+      "edits": 11,
+      "bugs": 1,
+      "todos": 2,
+      "lintErrors": 0
+    },
+    {
+      "fileName": "ProfileCard.tsx",
+      "edits": 8,
+      "bugs": 0,
+      "todos": 0,
+      "lintErrors": 0
+    },
+    {
+      "fileName": "NotificationService.ts",
+      "edits": 35,
+      "bugs": 5,
+      "todos": 6,
+      "lintErrors": 10
+    },
+    {
+      "fileName": "FormValidator.js",
+      "edits": 22,
+      "bugs": 3,
+      "todos": 1,
+      "lintErrors": 3
+    },
+    {
+      "fileName": "Navbar.tsx",
+      "edits": 9,
+      "bugs": 0,
+      "todos": 0,
+      "lintErrors": 2
+    },
+    {
+      "fileName": "settings/config.ts",
+      "edits": 3,
+      "bugs": 0,
+      "todos": 0,
+      "lintErrors": 0
+    }
+  
+]
